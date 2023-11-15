@@ -1,2 +1,2 @@
 # mern-fsd
-fsdd basic
+fsdd basic gvi
